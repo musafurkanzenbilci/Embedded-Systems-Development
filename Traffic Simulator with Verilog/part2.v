@@ -1,9 +1,4 @@
-// Code your design here
-// Code your design here
-  // Code your design here
-// Code your design here
-// Code your design here
-// Code your design here
+
 `timescale 1ns / 1ps
 module IntersectionSimulator(
 	input [2:0] mode, //1xx:display, 000:remA, 001:remB, 010:addA, 011:addB
@@ -23,7 +18,7 @@ module IntersectionSimulator(
 	output reg [4:0]  blackListDisplay
 	);
 	
-	//You may write your code anywhere
+  
   reg [6:0]  nextremainingTimeForA;
   reg [6:0]  nextremainingTimeForB;
   reg [6:0]  currentremainingTimeForA;

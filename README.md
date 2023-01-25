@@ -10,7 +10,7 @@ This repository contains a collection of various projects related to logic desig
 ## Embedded Systems Projects
 
 1. **Countdown Timer**: A simple assembly program for PIC18F8722 microcontroller that blinks an LED at a specific interval for a game.
-2. **GuitarHero**: A C program for PIC18F8722 microcontroller that displays a game on an LCD screen.
+2. **GuitarHero**: A C program for PIC18F8722 microcontroller that you can play a simple version of GuitarHero on the board.
 3. **Custom Text Editor**: A C program for PIC18F8722 microcontroller that you can create sentences created with built-in characters and user-created custom characters and displays it on an LCD screen.
 
 ## Getting Started
